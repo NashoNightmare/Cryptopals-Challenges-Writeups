@@ -1,6 +1,6 @@
 # Cryptopals-Challenges-Writeups
 
-![image](https://github.com/NashoNightmare/Cryptopals-Challenges-Writeups/blob/master/79059953_p0.png)
+![image](https://github.com/NashoNightmare/Cryptopals-Challenges-Writeups/blob/master/Intro.png)
 
 
 Writeups for Cryptopals Crypto challenges using Java language.
